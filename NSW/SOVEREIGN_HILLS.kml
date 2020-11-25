@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Thrumster</name>
+    <name>Sovereign Hills</name>
     <Style id="poly-000000-1200-77-nodesc-normal">
       <LineStyle>
         <color>ff000000</color>
@@ -41,25 +41,22 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Thrumster</name>
+      <name>Sovereign Hills</name>
       <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
             <tessellate>1</tessellate>
             <coordinates>
-              152.8249259,-31.4130544,0
-              152.8256984,-31.4161309,0
-              152.8238101,-31.423309,0
-              152.8226085,-31.4312188,0
               152.8239818,-31.4455721,0
-              152.8523059,-31.447842,0
-              152.8705878,-31.4221371,0
-              152.865438,-31.4179621,0
-              152.8585715,-31.4163507,0
-              152.8533359,-31.4176691,0
-              152.8500743,-31.4162774,0
-              152.8249259,-31.4130544,0
+              152.821321,-31.4589714,0
+              152.8181453,-31.4711974,0
+              152.8137679,-31.4781517,0
+              152.8396029,-31.4818848,0
+              152.8465552,-31.471051,0
+              152.843637,-31.4638034,0
+              152.8536792,-31.4479885,0
+              152.8239818,-31.4455721,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
